@@ -1,22 +1,20 @@
-![Optional Text](https://github.com/HelenDrug/HelenDrug/blob/master/banner.png)
+![Banner - Olena Drugalya](https://github.com/HelenDrug/HelenDrug/blob/master/banner.png)
 
 ---
-
-
 ### Hi there 👋 I am Olena Drugalya
 
+I am self-taught web developer and my stack is:
+- HTML and CSS (including SASS and Bootstrap)
+- JavaScript 
+- ReactJS
+- Git
+---
+My blog which Im using to write about my coding journey: *[olenadrugalya.blog](https://olenadrugalya.blog)*,
 
+---
+📫 How to reach me: 
+[LinkedIn <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/olenadrugalya/) 
+**|** [Twitter <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/@olenadrugalya) **|** [Dev To <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='website' height='25'>](https://dev.to/olenadrugalya)
 <!--
 **HelenDrug/HelenDrug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
