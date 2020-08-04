@@ -1,4 +1,4 @@
-![banner]
+![Optional Text](https://github.com/HelenDrug/HelenDrug/blob/master/banner.png)
 
 ---
 
