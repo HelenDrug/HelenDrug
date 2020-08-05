@@ -9,9 +9,9 @@ I am self-taught web developer and my stack is:
 - ReactJS
 - Git
 ---
-My blog which Im using to write about my coding journey: *[olenadrugalya.blog](https://olenadrugalya.blog)*
+My blog which Im using to write about my coding journey: *[olenadrugalya.blog](https://olenadrugalya.blog)* <br/>
 Also Im a proud member of Dev Comminuty - click to see my posts -> <a href="https://dev.to/olenadrugalya">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Olena Drugalya's DEV Profile" height="20" width="20">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Olena Drugalya's DEV Profile" height="30" width="30">
 </a>
 
 ---
