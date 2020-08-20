@@ -7,6 +7,7 @@ I am self-taught web developer and my stack is:
 - HTML and CSS (including SASS and Bootstrap)
 - JavaScript 
 - ReactJS
+- WordPress
 - Git
 ---
 My blog which Im using to write about my coding journey: *[olenadrugalya.blog](https://olenadrugalya.blog)* <br/>
